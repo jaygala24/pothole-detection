@@ -21,5 +21,13 @@ You can download the dataset from the following link: https://drive.google.com/f
 If you consider using our work then please cite using:
 
 ```
-@INPROCEEDINGS{9290547,  author={Chitale, Pranjal A. and Kekre, Kaustubh Y. and Shenai, Hrishikesh R. and Karani, Ruhina and Gala, Jay P.},  booktitle={2020 35th International Conference on Image and Vision Computing New Zealand (IVCNZ)},   title={Pothole Detection and Dimension Estimation System using Deep Learning (YOLO) and Image Processing},   year={2020},  volume={},  number={},  pages={1-6},  doi={10.1109/IVCNZ51579.2020.9290547}}
+@INPROCEEDINGS{9290547,
+  author={Chitale, Pranjal A. and Kekre, Kaustubh Y. and Shenai, Hrishikesh R. and Karani, Ruhina and Gala, Jay P.},
+  booktitle={2020 35th International Conference on Image and Vision Computing New Zealand (IVCNZ)}, 
+  title={Pothole Detection and Dimension Estimation System using Deep Learning (YOLO) and Image Processing}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/IVCNZ51579.2020.9290547}}
 ```
