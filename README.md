@@ -16,7 +16,7 @@ Pothole Dataset
 └── img-1243.txt
 ```
 
-You can download the dataset from the following link: https://drive.google.com/file/d/1CsT0vUHu8_CO80KnquP_jBgSM3EXznRp/view?usp=sharing
+You can download the dataset from the following link: https://github.com/jaygala24/pothole-detection/releases/download/v1.0.0/Pothole.Dataset.IVCNZ.zip
 
 If you consider using our work then please cite using:
 
