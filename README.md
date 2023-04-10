@@ -18,6 +18,8 @@ Pothole Dataset
 
 You can download the dataset from the following link: https://github.com/jaygala24/pothole-detection/releases/download/v1.0.0/Pothole.Dataset.IVCNZ.zip
 
+We recommend you to refer the following [github repository](https://github.com/Hrishi2499/Pothole-Dimension-Estimation) for scripts for depth estimation.
+
 If you consider using our work then please cite using:
 
 ```
